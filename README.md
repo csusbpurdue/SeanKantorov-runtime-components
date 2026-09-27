@@ -1,0 +1,1 @@
+This repository contains shell presets for both BASH and ZSH in order to configure everything to my personal liking rather than manually doing it every time. Just run install.sh to do so. All the scripts have been provided by CS 19300 @ Purdue sept/2026.
